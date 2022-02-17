@@ -4,9 +4,9 @@ namespace A3_1_Classes
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("you stupid");
         }
     }
 }

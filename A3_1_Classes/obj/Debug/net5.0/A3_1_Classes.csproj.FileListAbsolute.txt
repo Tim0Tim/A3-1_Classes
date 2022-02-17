@@ -1,0 +1,16 @@
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\bin\Debug\net5.0\A3_1_Classes.exe
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\bin\Debug\net5.0\A3_1_Classes.deps.json
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\bin\Debug\net5.0\A3_1_Classes.runtimeconfig.json
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\bin\Debug\net5.0\A3_1_Classes.runtimeconfig.dev.json
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\bin\Debug\net5.0\A3_1_Classes.dll
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\bin\Debug\net5.0\ref\A3_1_Classes.dll
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\bin\Debug\net5.0\A3_1_Classes.pdb
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.csproj.AssemblyReference.cache
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.AssemblyInfoInputs.cache
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.AssemblyInfo.cs
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.csproj.CoreCompileInputs.cache
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.dll
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\ref\A3_1_Classes.dll
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.pdb
+C:\Users\4400112995\source\repos\A3_1_Classes\A3_1_Classes\obj\Debug\net5.0\A3_1_Classes.genruntimeconfig.cache
