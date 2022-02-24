@@ -11,10 +11,10 @@ namespace A3_1_Classes
             Invoice item3 = new Invoice("Peanut butter", 2.48m, 3);
             Invoice item4 = new Invoice("Syrup", 3.99m, 4);
             Invoice item5 = new Invoice("Jam", 3.99m, 5);
-            Invoice item6 = new Invoice("Acorn", 12.00m, 6);
-            Invoice item7 = new Invoice("Chocolate Chips", 12.00m, 7);
-            Invoice item8 = new Invoice("Milk", 12.00m, 8);
-            Invoice item9 = new Invoice("Ketchup", 12.00m, 9);
+            Invoice item6 = new Invoice("Acorn", 0.02m, 6);
+            Invoice item7 = new Invoice("Chocolate Chips", 1.98m, 7);
+            Invoice item8 = new Invoice("Milk", 2.18m, 8);
+            Invoice item9 = new Invoice("Ketchup", 3.56m, 9);
 
             Console.WriteLine($"Item# {item1.Num} - {item1.Item} costs {item1.price:c}");
             Console.WriteLine($"Item# {item2.Num} - {item2.Item} costs {item2.price:c}");
@@ -41,4 +41,5 @@ namespace A3_1_Classes
  * chocolate chips 7
  * milk 8
  * ketchup 9
+ * tomato pasta
  */
