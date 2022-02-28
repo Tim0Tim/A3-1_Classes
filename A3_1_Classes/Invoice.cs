@@ -12,21 +12,21 @@ namespace A3_1_Classes
         public decimal price { get; set; }
         public int Num {get; set;}
 
-        public Invoice(string itemName, decimal itemPrice, int itemNum)
+        public Invoice(string itemName, decimal itemPrice, int itemNum) //constructor
         {
             Item = itemName;
             price = itemPrice;
             Num = itemNum;
         }
        
-      //  public int
+      /*  public int
       
         
         
         
         
         
-        /*public int Num
+        public int Num
         {
             get
             {
